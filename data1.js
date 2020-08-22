@@ -1,2 +1,2 @@
 "use strict";
-var ok = ["ok ok","okkkk"];
+var ok = "hello";
